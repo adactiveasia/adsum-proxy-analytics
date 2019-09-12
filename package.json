@@ -1,0 +1,123 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "git+https://f1a42af6fa16e2f0c24c975013b14a8126e75ce4:x-oauth-basic@github.com/AdactiveSAS/adsum-proxy-analytics",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "git+https://f1a42af6fa16e2f0c24c975013b14a8126e75ce4:x-oauth-basic@github.com/AdactiveSAS/adsum-proxy-analytics",
+        "spec": "git+https://f1a42af6fa16e2f0c24c975013b14a8126e75ce4:x-oauth-basic@github.com/AdactiveSAS/adsum-proxy-analytics.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:AdactiveSAS/adsum-proxy-analytics.git",
+          "sshUrl": "git+ssh://git@github.com/AdactiveSAS/adsum-proxy-analytics.git",
+          "httpsUrl": "git+https://f1a42af6fa16e2f0c24c975013b14a8126e75ce4:x-oauth-basic@github.com/AdactiveSAS/adsum-proxy-analytics.git",
+          "gitUrl": "git://f1a42af6fa16e2f0c24c975013b14a8126e75ce4:x-oauth-basic@github.com/AdactiveSAS/adsum-proxy-analytics.git",
+          "shortcut": "github:AdactiveSAS/adsum-proxy-analytics",
+          "directUrl": "https://f1a42af6fa16e2f0c24c975013b14a8126e75ce4:x-oauth-basic@raw.githubusercontent.com/AdactiveSAS/adsum-proxy-analytics/master/package.json"
+        }
+      },
+      "C:\\Users\\Master\\Desktop\\Adactive\\project-wheelock"
+    ]
+  ],
+  "_from": "git+https://f1a42af6fa16e2f0c24c975013b14a8126e75ce4:x-oauth-basic@github.com/AdactiveSAS/adsum-proxy-analytics.git",
+  "_id": "adsum-proxy-analytics@1.0.1",
+  "_inCache": true,
+  "_location": "/adsum-proxy-analytics",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "git+https://f1a42af6fa16e2f0c24c975013b14a8126e75ce4:x-oauth-basic@github.com/AdactiveSAS/adsum-proxy-analytics",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "git+https://f1a42af6fa16e2f0c24c975013b14a8126e75ce4:x-oauth-basic@github.com/AdactiveSAS/adsum-proxy-analytics",
+    "spec": "git+https://f1a42af6fa16e2f0c24c975013b14a8126e75ce4:x-oauth-basic@github.com/AdactiveSAS/adsum-proxy-analytics.git",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:AdactiveSAS/adsum-proxy-analytics.git",
+      "sshUrl": "git+ssh://git@github.com/AdactiveSAS/adsum-proxy-analytics.git",
+      "httpsUrl": "git+https://f1a42af6fa16e2f0c24c975013b14a8126e75ce4:x-oauth-basic@github.com/AdactiveSAS/adsum-proxy-analytics.git",
+      "gitUrl": "git://f1a42af6fa16e2f0c24c975013b14a8126e75ce4:x-oauth-basic@github.com/AdactiveSAS/adsum-proxy-analytics.git",
+      "shortcut": "github:AdactiveSAS/adsum-proxy-analytics",
+      "directUrl": "https://f1a42af6fa16e2f0c24c975013b14a8126e75ce4:x-oauth-basic@raw.githubusercontent.com/AdactiveSAS/adsum-proxy-analytics/master/package.json"
+    }
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "git+https://f1a42af6fa16e2f0c24c975013b14a8126e75ce4:x-oauth-basic@github.com/AdactiveSAS/adsum-proxy-analytics.git#146324b33948947e37dab72af6fb0616f05d1ebd",
+  "_shasum": "bef4df4d129d8d3c83b943c99fb6601c2f977228",
+  "_shrinkwrap": null,
+  "_spec": "git+https://f1a42af6fa16e2f0c24c975013b14a8126e75ce4:x-oauth-basic@github.com/AdactiveSAS/adsum-proxy-analytics",
+  "_where": "C:\\Users\\Master\\Desktop\\Adactive\\project-wheelock",
+  "author": {
+    "name": "Antoine Bigard",
+    "email": "antoine.bigard@adactive.com"
+  },
+  "dependencies": {},
+  "description": "The Adsum Analytics proxy project",
+  "devDependencies": {
+    "babel-cli": "~6.3",
+    "babel-core": "~6.3",
+    "babel-eslint": "~6.0",
+    "babel-loader": "~6.2",
+    "babel-plugin-transform-class-properties": "^6.3.13",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-plugin-transform-es2015-duplicate-keys": "^6.8.0",
+    "babel-plugin-transform-proto-to-assign": "^6.9.0",
+    "babel-plugin-transform-runtime": "~6.9",
+    "babel-polyfill": "~6.3",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-es2015-loose": "^7.0.0",
+    "body-parser": "~1.14.1",
+    "bowser": "^1.0",
+    "chai": "~3.5",
+    "chai-as-promised": "~5.3",
+    "check-types": "~6.0",
+    "compression": "~1.6.0",
+    "connect": "^3.4.1",
+    "crypto-js": "^3.1.6",
+    "eslint": "~2.8",
+    "eslint-plugin-babel": "^3.2.0",
+    "ink-docstrap": "~1.2",
+    "isparta": "~4.0",
+    "jsdoc": "~3.4",
+    "json-loader": "^0.5.4",
+    "mocha": "~2.4",
+    "node-persist": "0.0.11",
+    "pubsub-js": "^1.5.3",
+    "recursive-readdir-sync": "^1.0.6",
+    "requirejs": "latest",
+    "simple-mock": "^0.7.0",
+    "single-module-instance-webpack-plugin": "0.0.*",
+    "taffydb": "^2.7.2",
+    "url": "~0.11.0",
+    "webpack": "^1.12",
+    "winston": "^2.2.0",
+    "xmlhttprequest-ssl": "~1.5"
+  },
+  "engines": {
+    "node": "^6.0.0"
+  },
+  "files": [
+    "build"
+  ],
+  "gitHead": "146324b33948947e37dab72af6fb0616f05d1ebd",
+  "license": "UNLISENCED",
+  "main": "build/adsum-proxy-analytics.es6.js",
+  "name": "adsum-proxy-analytics",
+  "optionalDependencies": {},
+  "private": true,
+  "readme": "![Node module](https://img.shields.io/badge/node-module-orange.svg?style=flat)\r\n&nbsp;\r\n![Node ~6.0](https://img.shields.io/badge/node-~%205.7-blue.svg?style=flat)\r\n&nbsp;\r\n![Coverage 77.17%](https://img.shields.io/badge/coverage-77.17%25-yellow.svg?style=flat)\r\n\r\n# adsum-proxy-analytics\r\n\r\nAdsum Analytics proxy module allows you to send back monitoring information to the adsum servers.\r\n\r\n##Usage\r\n\r\n    const APAN = require(\"adsum-proxy-analytics\");\r\n\r\n    const options = new APAN.ProxyOptions(\r\n        {\r\n            site: 240,\r\n            device: 170,\r\n            server: {\r\n                hostname: \"127.0.0.1\",\r\n                port: 9002,\r\n                route: \"/local-analytics\"\r\n            },\r\n            analytics: {\r\n                site: 116,\r\n                key: \"f4a8be0670524ee957374a44dfe278e9\",\r\n                endpoint: \"http://analytics.adsum.io/piwik.php\"\r\n            },\r\n            storage: {\r\n                folder: \"./data\",\r\n                flushInterval: 60000\r\n            }\r\n        }\r\n    );\r\n\r\n    const proxy = new APAN.Proxy(options);\r\n    proxy.server.start().then(\r\n        ()=> {\r\n            console.log(\"Success\");\r\n    \r\n            proxy.analytics.ping().then(\r\n                (result)=>{\r\n                    console.log(result);\r\n                }\r\n            );\r\n            setTimeout(()=>{\r\n                proxy.analytics.trackLog(1000, \"Test proxy\").then(\r\n                    (result)=>{\r\n                        console.log(result);\r\n                    }\r\n                );\r\n            }, 5000);\r\n        },\r\n        (e)=> {\r\n            console.log(\"Failed !\");\r\n            console.log(e);\r\n        }\r\n    );\r\n\r\n    //Or Just bind to an existing server\r\n    proxy.server.bind([SERVE]);\r\n\r\n##Options\r\n\r\n - site: [SITEID]\r\n - device: [DEVICEID]\r\n \r\n - analytics:\r\n  - endpoint: \"http://analytics.adsum.io/piwik.php\"\r\n  - site: [ANALYTICSID]\r\n  - key: [TOKEN]\r\n  \r\n - server:\r\n  - route: \"/local-analytics\"\r\n  - hostname: \"127.0.0.1\"\r\n  - port: [PORT]\r\n \r\n - storage:\r\n  - folder: \"./data\"\r\n  - flushInterval: 120000\r\n  \r\n##Methods\r\n\r\n###ping()\r\nSend ping to adsum server\r\n\r\n###trackLog(SEVERITY, MESSAGE)\r\nSend monitoring information to adsum server with severity level\r\n**SEVERITY** _{number}_\r\n - NOTICE: 2000\r\n - WARN:\r\n - ERR:\r\n\r\n**MESSAGE** _{string}_\r\n",
+  "readmeFilename": "README.md",
+  "scripts": {
+    "compile": "webpack",
+    "doc": "jsdoc -c jsdoc_conf.json -t ./node_modules/ink-docstrap/template",
+    "test": "babel-node ./node_modules/.bin/isparta cover _mocha -- test/unit --compilers js:babel-core/register --recursive --reporter dot"
+  },
+  "version": "1.0.1"
+}
