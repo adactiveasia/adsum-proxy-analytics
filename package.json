@@ -100,9 +100,6 @@
     "winston": "^2.2.0",
     "xmlhttprequest-ssl": "~1.5"
   },
-  "engines": {
-    "node": "^6.0.0"
-  },
   "files": [
     "build"
   ],
